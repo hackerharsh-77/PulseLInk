@@ -51,8 +51,3 @@ Type messages and press **Enter** to send them to all connected clients.
 3. **Client sends messages**, which are delivered asynchronously to all participants.
 4. **Client disconnects**, and they are removed from the chat room.
 
-## Future Improvements
-- Support for **multiple chat rooms**.
-- **User authentication** and **message encryption**.
-- WebSocket support for browser-based clients.
-
